@@ -1,6 +1,3 @@
 docs/
 user_data.json
 send_pec.ipynb
-flask/flasktest.ipynb
-flask/hello.py
-flask/__pycache__/hello.cpython-38.pyc
