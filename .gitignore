@@ -1,3 +1,4 @@
 docs/
 user_data.json
 send_pec.ipynb
+__pycache__/
